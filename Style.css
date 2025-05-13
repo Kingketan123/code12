@@ -1,11 +1,13 @@
 h1{
     color:red;
     background-color: blueviolet;
+    font-size: 20px;
 }
 
 h2{
     color: darksalmon;
     background-color: darkseagreen;
+    font-size: 20px;
 }
 
 h3{
@@ -22,3 +24,4 @@ h5{
     color:green;
     background-color: yellow;
 }
+
