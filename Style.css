@@ -13,15 +13,21 @@ h2{
 h3{
     color:blue;
     background-color: deeppink;
+    font-size: 20px;
+    font-family: cursive;
 }
 
 h4{
     color:green;
     background-color: blueviolet;
+    font-size: 20px;
+    font-family: 'Times New Roman', Times, serif;
 }
 
 h5{
     color:green;
     background-color: yellow;
+    font: 100;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 }
 
